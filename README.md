@@ -11,33 +11,34 @@ I also added a white/pink noise source and a MIDI interface (optional).
 
 I have included the original documentation from DJ SoulMachine and I made some other mods but currently I will have to find these and add them to the documentaion.
 
-Voltage Controlled Oscillator (VCO):
+
+# Voltage Controlled Oscillator (VCO):
 - Scale: 32', 16', 8', 4'
 - Waveforms: Tri, Saw, Pulse (with PWM), VCO off
 - Variable pitch control
 - Glide control
 - Sub Oscillator
 
-Voltage Controlled low-pass Filter (VCF):
+# Voltage Controlled low-pass Filter (VCF):
 - Cutoff Frequency control
 - Peak (Resonance) control
 - Keyboard tracking switch
 
-Voltage Control Amplifier (VCA):
+# Voltage Control Amplifier (VCA):
 - MS10 VCA clone
 - Feedback loop
 
-Modulation Generator (MG):
+# Modulation Generator (MG):
 - Waveforms: Triangle, Saw & Square
 - Frequency control
 - Frequency modulation of VCO & VCF
 
-Envelope Generators (EG):
+# Envelope Generators (EG):
 - Attack, Decay, Sustain, Release
 - Frequency modulation of VCO & VCF
 - Amplitude modulation of VCA
 
-Features:
+# Features:
 - CV/gate
 - Drone mode
 - Manual gate trigger
