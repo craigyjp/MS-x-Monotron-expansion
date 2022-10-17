@@ -9,7 +9,7 @@ I updated the EG's to EnvGen8c chips and added two more of them for pitch and am
 
 I also added a white/pink noise source and a MIDI interface (optional).
 
-I have included the original documentation from DJ SoulMachine and I made some other mods but currently I will have to find these and add them to the documentaion.
+I have included the original documentation from DJ SoulMachine and I made some other mods which are sort of documented as best I could.
 
 
 # Voltage Controlled Oscillator (VCO):
@@ -18,6 +18,7 @@ I have included the original documentation from DJ SoulMachine and I made some o
 - Variable pitch control
 - Glide control
 - Sub Oscillator
+- Pink & White Noise source
 
 # Voltage Controlled low-pass Filter (VCF):
 - Cutoff Frequency control
@@ -42,3 +43,4 @@ I have included the original documentation from DJ SoulMachine and I made some o
 - CV/gate
 - Drone mode
 - Manual gate trigger
+- MIDI input
